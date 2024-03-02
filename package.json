@@ -1,6 +1,6 @@
 {
-  "name": "socket.io",
-  "version": "4.7.4",
+  "name": "super-editer",
+  "version": "4.7.5",
   "description": "node.js realtime framework server",
   "keywords": [
     "realtime",
@@ -34,7 +34,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git://github.com/socketio/socket.io"
+    "url": "https://github.com/dfsdfaqweqr3412/super-editer.git"
   },
   "scripts": {
     "compile": "rimraf ./dist && tsc",
@@ -52,7 +52,8 @@
     "debug": "~4.3.2",
     "engine.io": "~6.5.2",
     "socket.io-adapter": "~2.5.2",
-    "socket.io-parser": "~4.2.4"
+    "socket.io-parser": "~4.2.4",
+    "uuid": "^9.0.1"
   },
   "devDependencies": {
     "@types/mocha": "^9.0.0",
